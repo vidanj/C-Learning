@@ -1,4 +1,4 @@
-add_executable(HelloWorld HelloWorld.cpp)
+add_executable(HelloWorld hello_world.cpp)
 target_link_libraries(HelloWorld PRIVATE PPP)
 
 # Add more drills below as you progress through the book:

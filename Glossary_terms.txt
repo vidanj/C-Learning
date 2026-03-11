@@ -1,0 +1,17 @@
+// -> Señalizacion de un comentario
+function -> Instruccion explicicta para la maquina
+output -> Salida, respuesta de la maquina
+compiler -> Compilador, traductor de lenguaje codigo a lenguaje maquina
+error -> Error, segmento del codigo que no puede interpretar la maquina correctamente
+linker -> Conector, programa que conecta los diferentes archivos compilados para crear el archivo ejectuable (exe)
+command line -> Linea de Comando, Instruccion dada en formato de lenguaje de codigo
+executable -> Ejecutable, archivo generado a partir del Linker que ya contiene todo el codigo necesario para correrse en la maquina.
+object code -> codigo objeto, traduccion del lenguaje codigo a lenguaje maquina
+comment -> Comentario, Mensaje dejado por el programador para compresion humana
+import -> Importar, tomar parte de otro codigo ya prestablecido(librerias) para uso dentro del codigo que se esta creando
+library -> Libreria, codigo ya existente, prestablecido para uso de otros programadores
+module -> Modulo, 
+bug -> Error/funcion inconsistente encontrado dentro del codigo
+main() -> funcion principal de todo codigo c++, c++ busca le main para saber de donde empezar el programa
+C++ -> lenguaje de programacion de bajo nivel creado por Bjarne Stroustrup
+IDE -> "Interactive Development Enviroment", entorno de desarrollo interactivo, un programa que permite escribi
