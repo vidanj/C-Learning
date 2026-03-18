@@ -14,4 +14,14 @@ module -> Modulo,
 bug -> Error/funcion inconsistente encontrado dentro del codigo
 main() -> funcion principal de todo codigo c++, c++ busca le main para saber de donde empezar el programa
 C++ -> lenguaje de programacion de bajo nivel creado por Bjarne Stroustrup
-IDE -> "Interactive Development Enviroment", entorno de desarrollo interactivo, un programa que permite escribi
+IDE -> "Interactive Development Enviroment", entorno de desarrollo interactivo, un programa que permite escribir codigo base
+Source Code -> Codigo fuente, el codigo base que escribe el programador
+statement ->
+#include -> marcador que indica que librerias se tuilzian dentro del programa para incluirlas
+debugging -> debugear el codigo buscando errores no percibidos durante la creacion del programa
+<< -> operador de Salida, indica lo que se busca dar como salida del programa
+header file -> 
+program -> 
+compile-time ->
+cout -> console output, salida a consola
+std -> standard,  libreria estandart de c++
